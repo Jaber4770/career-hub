@@ -1,31 +1,62 @@
 [
     {
-        "id":1,
-        "logo":"https://i.ibb.co/NyW6vSW/accounts-1.png",
-        "category_name":"Account & Finance",
-        "availability":"300 Jobs Available"
-
+        "id": 1,
+        "logo": "/public/assets/icons/accounts.png",
+        "category_name": "Account & Finance",
+        "availability": "300 Jobs Available"
     },
     {
-        "id":2,
-        "logo":"https://i.ibb.co/PC8JwL3/chip-1.png",
-        "category_name":"Creative Design",
-        "availability":"100+ Jobs Available"
-
+        "id": 2,
+        "logo": "/public/assets/icons/calendar.png",
+        "category_name": "Creative Design",
+        "availability": "100+ Jobs Available"
     },
     {
-        "id":3,
-        "logo":"https://i.ibb.co/H4f5ZCp/Group-13.png",
-        "category_name":"Marketing & Sales",
-        "availability":"150 Jobs Available"
-
+        "id": 3,
+        "logo": "/public/assets/icons/chip.png",
+        "category_name": "Marketing & Sales",
+        "availability": "150 Jobs Available"
     },
     {
-        "id":4,
-        "logo":"https://i.ibb.co/72841P4/social-media-1.png",
-        "category_name":"Engineering Job",
-        "availability":"224 Jobs Available"
-
+        "id": 4,
+        "logo": "/public/assets/icons/creative.png",
+        "category_name": "Engineering Job",
+        "availability": "224 Jobs Available"
+    },
+    {
+        "id": 5,
+        "logo": "/public/assets/icons/email.png",
+        "category_name": "Healthcare",
+        "availability": "180 Jobs Available"
+    },
+    {
+        "id": 6,
+        "logo": "/public/assets/icons/Location.png",
+        "category_name": "Education",
+        "availability": "90 Jobs Available"
+    },
+    {
+        "id": 7,
+        "logo": "/public/assets/icons/location2.png",
+        "category_name": "Information Technology",
+        "availability": "250 Jobs Available"
+    },
+    {
+        "id": 8,
+        "logo": "/public/assets/icons/marketing.png",
+        "category_name": "Human Resources",
+        "availability": "75 Jobs Available"
+    },
+    {
+        "id": 9,
+        "logo": "/public/assets/icons/money.png",
+        "category_name": "Customer Service",
+        "availability": "200 Jobs Available"
+    },
+    {
+        "id": 10,
+        "logo": "/public/assets/icons/phone.png",
+        "category_name": "Logistics & Supply Chain",
+        "availability": "110 Jobs Available"
     }
-
 ]
