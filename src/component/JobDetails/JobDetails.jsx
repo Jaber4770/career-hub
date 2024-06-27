@@ -7,6 +7,7 @@ import { MdOutlineEmail } from "react-icons/md";
 import { IoLocationOutline } from "react-icons/io5";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { saveJobApplication } from "../Utils/Utils";
 
 const JobDetails = () => {
     const jobs = useLoaderData();
@@ -15,10 +16,10 @@ const JobDetails = () => {
     const job = jobs.find(job => job.id === idINT);
 
     const handleApplyJob = () => {
+        saveJobApplication(idINT);
         toast.success("You have applied Successfully!");
     }
 
-    console.log("job details: ", job);
     return (
         <div className="">
             <div className="">
