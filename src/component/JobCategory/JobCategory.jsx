@@ -12,8 +12,6 @@ const JobCategory = () => {
             .then(data => setCategorys(data));
     }, [])
 
-    console.log(Categorys);
-
     return (
         <div className="my-20 container mx-auto">
             <div className="text-center">

@@ -1,0 +1,6 @@
+.bg-style1 {
+    background-image: url(../../../public/assets/images/bg1.png), url(../../../public/assets/images/bg2.png);
+    background-position: left bottom, right top;
+    background-repeat: no-repeat, no-repeat;
+}
+
