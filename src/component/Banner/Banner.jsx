@@ -10,7 +10,7 @@ const Banner = () => {
                     <button className="rounded-lg py-3 px-5 font-bold bg-gradient-to-r from-sky-500 to-indigo-500 text-white">Get Started</button>
                 </div>
                 <div>
-                    <img src="/public/assets/images/user.png" alt="" />
+                    <img src="/assets/images/user.png" alt="" />
                 </div>
             </div>
         </div>

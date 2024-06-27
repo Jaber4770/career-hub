@@ -8,7 +8,7 @@ const FeaturedJobs = () => {
     const [jobs, setJobs] = useState(6);
 
     useEffect(() => {
-        fetch('/public/data/jobs.json')
+        fetch('/data/jobs.json')
             .then(res => res.json())
             .then(data => setFeaturedJobs(data))
     }, [])

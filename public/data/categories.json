@@ -1,61 +1,61 @@
 [
     {
         "id": 1,
-        "logo": "/public/assets/icons/accounts.png",
+        "logo": "/assets/icons/accounts.png",
         "category_name": "Account & Finance",
         "availability": "300 Jobs Available"
     },
     {
         "id": 2,
-        "logo": "/public/assets/icons/calendar.png",
+        "logo": "/assets/icons/calendar.png",
         "category_name": "Creative Design",
         "availability": "100+ Jobs Available"
     },
     {
         "id": 3,
-        "logo": "/public/assets/icons/chip.png",
+        "logo": "/assets/icons/chip.png",
         "category_name": "Marketing & Sales",
         "availability": "150 Jobs Available"
     },
     {
         "id": 4,
-        "logo": "/public/assets/icons/creative.png",
+        "logo": "/assets/icons/creative.png",
         "category_name": "Engineering Job",
         "availability": "224 Jobs Available"
     },
     {
         "id": 5,
-        "logo": "/public/assets/icons/email.png",
+        "logo": "/assets/icons/email.png",
         "category_name": "Healthcare",
         "availability": "180 Jobs Available"
     },
     {
         "id": 6,
-        "logo": "/public/assets/icons/Location.png",
+        "logo": "/assets/icons/Location.png",
         "category_name": "Education",
         "availability": "90 Jobs Available"
     },
     {
         "id": 7,
-        "logo": "/public/assets/icons/location2.png",
+        "logo": "/assets/icons/location2.png",
         "category_name": "Information Technology",
         "availability": "250 Jobs Available"
     },
     {
         "id": 8,
-        "logo": "/public/assets/icons/marketing.png",
+        "logo": "/assets/icons/marketing.png",
         "category_name": "Human Resources",
         "availability": "75 Jobs Available"
     },
     {
         "id": 9,
-        "logo": "/public/assets/icons/money.png",
+        "logo": "/assets/icons/money.png",
         "category_name": "Customer Service",
         "availability": "200 Jobs Available"
     },
     {
         "id": 10,
-        "logo": "/public/assets/icons/phone.png",
+        "logo": "/assets/icons/phone.png",
         "category_name": "Logistics & Supply Chain",
         "availability": "110 Jobs Available"
     }
